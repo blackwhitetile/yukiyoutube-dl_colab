@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/blackwhitetile/yukiyoutube-dl_colab/main/Untitled7.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vlr5F3psxgoqphhDzTmlDsq9n9E3dM6e)
